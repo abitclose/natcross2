@@ -15,10 +15,10 @@ public final class CommonConstants {
 	// 客户端服务的端口
 	public static final int servicePort = 10010;
 
-	// 映射对
+	//映射对
 	public static ListenDest[] listenDestArray = new ListenDest[] {
 			//
-			ListenDest.of(8081, "127.0.0.1", 8080),
+			ListenDest.of(18081, "127.0.0.1", 18080),
 			//
 	};
 
